@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Kelly-Cooper 
-1
-00Kelly-Cooper/monax-templates
- Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
-monax-templates/meeting-summary-sheet
-@kelly2ds kelly2ds Format document
-f2fec65 3 minutes ago
-@Kelly-Cooper@kelly2ds
-29 lines (19 sloc)  484 Bytes
-  
 ## Meeting Summary Sheet
 
 ###Name of Corporation:
