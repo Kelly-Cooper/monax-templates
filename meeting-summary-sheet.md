@@ -1,6 +1,6 @@
 ## Meeting Summary Sheet
 
-###Name of Corporation:
+### Name of Corporation:
 
 Year:
 Type of Meeting:
